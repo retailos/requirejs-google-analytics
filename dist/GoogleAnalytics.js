@@ -7,7 +7,7 @@
 
   require.config({
     paths: {
-      'ga': '//www.google-analytics.com/analytics'
+      'ga': 'https://www.google-analytics.com/analytics'
     },
     shim: {
       'ga': {
